@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='purple'>Welcome to VIHIKA IT TRAINING INSTITUTE <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='purple'>Welcome to TINY COCOS kids play school <font></h1>
+<h2>a best place to start learning </h2>
  
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See VIHIKA IT Training Schedules...</a>
+<a href="https://tinycocos.com/time table">Click Here To See tinycocs accademic calender...</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h2> Call Us : + 91 - 8877665544 </h2>
 
 </body>
 </html>
